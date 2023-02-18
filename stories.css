@@ -1,0 +1,4 @@
+a.story div.profile-icon + div:has(> svg > circle),
+a.story div.profile-icon {
+  display: none;
+}
